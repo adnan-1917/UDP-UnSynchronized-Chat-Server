@@ -4,6 +4,6 @@ This is an UnSynchronized Chat Server held between the Client and Server. We are
 
 Tools: NetBeans IDE.
 
-# Language: Java.
+Language: Java.
 
-# Libraries: ClientStream, ServerStream, Socket, Server Socket , java.nio.files.
+Libraries: ClientStream, ServerStream, Socket, Server Socket , java.nio.files.
